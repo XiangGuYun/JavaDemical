@@ -1,4 +1,5 @@
-#Java BigDecimal#
+#Java BigDecimal
+
 BigDecimal类使用户完全控制舍入行为。如果未指定舍入模式，并且无法表示准确结果，则抛出一个异常；
 
 否则，通过向该操作提供适当的MathContext对象，可以对已选择的精度和舍入模式执行计算。
